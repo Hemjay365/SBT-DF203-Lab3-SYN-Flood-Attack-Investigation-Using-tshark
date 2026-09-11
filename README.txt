@@ -27,7 +27,6 @@ scripts/syn_probe_lab.py
     specified in the manual (TARGET=127.0.0.1, PORT=80, COUNT=4).
 
 evidence/  and  working/
-    Placeholder folders for your original PCAP/PCAPNG files -
 
 
 ============================================================
